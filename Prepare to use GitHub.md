@@ -82,7 +82,9 @@
 
 ## 41. [About SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh)  (GitHub Docs)
 
-## 42. [Managing connections between GitHub Enterprise Server and GitHub Enterprise Cloud](https://docs.github.com/en/enterprise-server@3.5/admin/configuration/configuring-github-connect)  (GitHub Docs)
+## 42. [Managing connections between GitHub Enterprise Server and GitHub Enterprise Cloud](https://docs.github.com/en/enterprise-server@3.5/admin/configuration/configuring-github-connect)
+
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(GitHub Docs)
 
 ## 43. [Audit logging](https://docs.github.com/en/enterprise-server@3.5/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/about-the-audit-log-for-your-enterprise)  (GitHub Docs)
 
