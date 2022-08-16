@@ -1,4 +1,4 @@
-# GitHub Learning Lab
+# GitHub Learning Lab [💎](https://github.com/Zi-Tao/GitHub-Learning-Lab/blob/main/The%20Offical%20Github%20Training%20Manual.pdf)
 
 ## 1. [First Day on GitHub](https://github.com/Zi-Tao/GitHub-Learning-Lab/blob/main/First%20Day%20on%20GitHub.md)
 
