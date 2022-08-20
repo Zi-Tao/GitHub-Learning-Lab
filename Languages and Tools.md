@@ -26,9 +26,9 @@
 
 ## 13. [Introduction to Design Thinking](https://github.com/Zi-Tao/design-thinking-intro)
 
-## 14. [TensorFlow Image Processing](https://github.com/Zi-Tao/TensorFlow-Course)
+## 14. [Get Started with TensorFlow](https://github.com/Zi-Tao/TensorFlow-Pokemon-Course)
 
-## 15. [Get Started with TensorFlow](https://github.com/Zi-Tao/TensorFlow-Pokemon-Course)
+## 15. [TensorFlow Image Processing](https://github.com/Zi-Tao/TensorFlow-Course)
 
 ## 16. [TomTom Maps SDK for Android - Display a Map](https://github.com/Zi-Tao/lab-maps-sdk-android-display-a-map)
 
